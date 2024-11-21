@@ -1,5 +1,8 @@
+'use client';
 import Image from 'next/image';
+
 import Search from '@/app/ui/search';
+
 import {
   FormattedCustomersTable,
 } from '@/app/lib/definitions';
